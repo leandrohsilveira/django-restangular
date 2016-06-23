@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+.idea/django-restangular.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
